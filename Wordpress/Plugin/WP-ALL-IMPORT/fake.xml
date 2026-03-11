@@ -1,0 +1,9 @@
+    <!DOCTYPE test [<!ENTITY desc "This is a pretty cool TV!">]>
+    <products>
+        <product>
+            <name>Television</name>
+            <code>100</code>
+            <tags>entertainment</tags>
+            <description>&desc;</description>
+        </product>
+    </products>
